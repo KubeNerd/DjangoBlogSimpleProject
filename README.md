@@ -1,3 +1,3 @@
 Simples blog
 
-<img src=''>
+<img src='print_blog.png'>
